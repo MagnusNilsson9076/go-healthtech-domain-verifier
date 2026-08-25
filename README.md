@@ -1,6 +1,6 @@
 # Verify a healthtech sending domain from Go
 
-When compliance or deliverability needs a concrete domain status, run the verifier:
+When a compliance or deliverability check needs a concrete domain status, run the verifier to get a real answer instead of guessing.
 
 ```bash
 export INFRAI_API_KEY=your-key
